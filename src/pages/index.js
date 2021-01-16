@@ -45,6 +45,7 @@ function Index() {
           <code>api/date</code> for the Date API with Node.js (TypeScript)
         </a>
         .
+        Please deploy vercel, ty.
       </p>
       <br />
       <h2>The date according to Node.js (TypeScript) is:</h2>
